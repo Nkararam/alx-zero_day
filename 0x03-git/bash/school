@@ -1,8 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "The school is open!"
-=======
-echo "school"
-#!/bin/bash
-echo "school"
->>>>>>> refs/remotes/origin/update_script
+

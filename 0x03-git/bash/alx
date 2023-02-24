@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX school"
-=======
-echo "ALX"
-#!/bin/bash
-echo "ALX"
->>>>>>> refs/remotes/origin/update_script
