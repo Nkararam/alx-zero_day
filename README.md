@@ -1,2 +1,2 @@
 i am a software engineer.
-i am a software engineer yet
+i am not software engineer yet
